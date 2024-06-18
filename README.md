@@ -15,10 +15,7 @@ The website is hosted at: [Spotify Clone](https://open-clone-spotify.netlify.app
 - [Hosted Website Link](#link)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Project Structure
 
