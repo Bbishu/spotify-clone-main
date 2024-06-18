@@ -40,21 +40,3 @@ This project is hosted online. You can visit the website clone by clicking [here
 - CSS
 
 
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the project.
-2. Create a new branch.
-3. Make your changes and commit them.
-4. Push to your fork and submit a pull request.
-
-## Authors
-
-- [@Arnabjk008](https://www.github.com/xensen008)
-- [Bio Links](https://xensen008.bio.link)
-
-## Acknowledgements
-
-A massive shoutout and heartfelt thanks to @ApnaCollage and Shradha maam for her incredible teachings on this web dev course! 🙌💻 Her guidance has been instrumental in reaching this milestone.
