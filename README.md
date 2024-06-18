@@ -39,15 +39,7 @@ This project is hosted online. You can visit the website clone by clicking [here
 - HTML
 - CSS
 
-## Setup and Usage
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/xensen008/spotify-clone.git
-```
-
-2. Open the `index.html` file in a web browser.
 
 ## Contributing
 
