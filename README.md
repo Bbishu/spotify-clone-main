@@ -7,7 +7,7 @@ This project is a static clone of the Spotify user interface, developed as part 
 
 ![Screenshot](./ss.png)
 
-The website is hosted at: [Spotify Clone](https://open-clone-spotify.netlify.app/)
+The website is hosted at: [Spotify Clone](https://bbishu.github.io/spotify-clone-main/)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ The website is hosted at: [Spotify Clone](https://open-clone-spotify.netlify.app
 - **styles.css**: The CSS file containing the styles for the page.
 
 ## Hosted Website Link
-This project is hosted online. You can visit the website clone by clicking [here](https://open-clone-spotify.netlify.app/).
+This project is hosted online. You can visit the website clone by clicking [here](https://bbishu.github.io/spotify-clone-main/).
 
 ## Features
 
